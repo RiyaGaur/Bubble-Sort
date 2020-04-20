@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.function.BiConsumer;
 
 public class BubbleSort {
     public void sort(int arr[]){
